@@ -1,0 +1,18 @@
+Electrical Product Specifications
+
+LED BULBS
+- Model: E27-LED-9W. Voltage: 220-240V. Wattage: 9W equivalent to 60W incandescent. Lumen: 806. Color temp: 2700K warm white. Base: E27. Lifespan: 15000 hours.
+
+- Model: B22-LED-12W. Voltage: 220-240V. Wattage: 12W equivalent to 75W. Lumen: 1055. Color temp: 6500K daylight. Base: B22. Lifespan: 20000 hours.
+
+CABLES AND WIRES
+- 1.5mm² twin & earth: 100m drum. PVC insulated. Use: lighting circuits. Max load: 14A.
+- 2.5mm² twin & earth: 100m drum. PVC insulated. Use: ring mains, sockets. Max load: 24A.
+- 4mm² twin & earth: 100m drum. Use: cookers, showers. Max load: 32A.
+- 1mm² flex: 50m. Use: pendant lights, appliances. Brown/blue/green-yellow.
+
+SWITCHES
+- 1-gang 1-way: 10A, 250V. White plastic. Screwless terminals.
+- 2-gang 2-way: 10A, 250V. For stairway/room switching.
+- Dimmer switch: 400W max. Trailing edge. Compatible with LED.
+- Bell push: 5A. Brass finish. For doorbells.
