@@ -1,0 +1,38 @@
+{
+  "catalog": "Electrical Products",
+  "categories": [
+    {
+      "name": "Bulbs",
+      "items": [
+        {
+          "sku": "B-E27-9W",
+          "name": "LED Bulb E27 9W",
+          "price": 4.99,
+          "specs": { "lumen": 806, "color_temp": "2700K", "lifespan_hours": 15000 }
+        },
+        {
+          "sku": "B-B22-12W",
+          "name": "LED Bulb B22 12W",
+          "price": 5.49,
+          "specs": { "lumen": 1055, "color_temp": "6500K", "lifespan_hours": 20000 }
+        }
+      ]
+    },
+    {
+      "name": "Cables",
+      "items": [
+        { "sku": "C-1.5-TE", "name": "Twin & Earth 1.5mm² 100m", "price": 45.00, "use": "lighting" },
+        { "sku": "C-2.5-TE", "name": "Twin & Earth 2.5mm² 100m", "price": 62.00, "use": "sockets" },
+        { "sku": "C-4-TE", "name": "Twin & Earth 4mm² 100m", "price": 95.00, "use": "cookers, showers" }
+      ]
+    },
+    {
+      "name": "Switches",
+      "items": [
+        { "sku": "S-1G-1W", "name": "1-Gang 1-Way Switch", "price": 2.49 },
+        { "sku": "S-2G-2W", "name": "2-Gang 2-Way Switch", "price": 4.29 },
+        { "sku": "S-DIM-400", "name": "Dimmer Switch 400W", "price": 12.99 }
+      ]
+    }
+  ]
+}

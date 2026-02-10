@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <category name="Bulbs">
+    <product sku="B-E27-9W">
+      <name>LED Bulb E27 9W</name>
+      <price>4.99</price>
+      <voltage>220-240V</voltage>
+      <lumen>806</lumen>
+      <color_temp>2700K</color_temp>
+      <lifespan_hours>15000</lifespan_hours>
+    </product>
+    <product sku="B-B22-12W">
+      <name>LED Bulb B22 12W</name>
+      <price>5.49</price>
+      <voltage>220-240V</voltage>
+      <lumen>1055</lumen>
+      <color_temp>6500K</color_temp>
+      <lifespan_hours>20000</lifespan_hours>
+    </product>
+  </category>
+  <category name="Cables">
+    <product sku="C-1.5-TE">
+      <name>Twin &amp; Earth 1.5mm²</name>
+      <price>45.00</price>
+      <length_m>100</length_m>
+      <use>Lighting circuits</use>
+      <max_amps>14</max_amps>
+    </product>
+    <product sku="C-2.5-TE">
+      <name>Twin &amp; Earth 2.5mm²</name>
+      <price>62.00</price>
+      <length_m>100</length_m>
+      <use>Ring mains, sockets</use>
+      <max_amps>24</max_amps>
+    </product>
+  </category>
+  <category name="Switches">
+    <product sku="S-1G-1W">
+      <name>1-Gang 1-Way Switch</name>
+      <price>2.49</price>
+      <rating>10A 250V</rating>
+    </product>
+    <product sku="S-DIM-400">
+      <name>Dimmer Switch 400W</name>
+      <price>12.99</price>
+      <rating>LED compatible</rating>
+    </product>
+  </category>
+</catalog>

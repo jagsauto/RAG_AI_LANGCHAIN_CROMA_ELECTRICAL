@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Chroma database
+chroma_db/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Python virtual environments
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Other common unwanted files
+*.sqlite3
