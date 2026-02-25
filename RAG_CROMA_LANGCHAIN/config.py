@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # API keys
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-89f36bfd27364594b4303af7fb6803f7")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
