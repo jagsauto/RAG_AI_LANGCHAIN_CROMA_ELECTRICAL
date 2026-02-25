@@ -9,6 +9,7 @@ load_dotenv()
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "YOUR_KEY")
 
 # Paths
 PROJECT_ROOT = Path(__file__).resolve().parent
